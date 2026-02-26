@@ -1,4 +1,4 @@
-const SUPPORTED_LANGUAGES = ['en', 'es'];
+const SUPPORTED_LANGUAGES = ['en', 'es', 'ru'];
 const DEFAULT_LANGUAGE = 'en';
 
 const localeCache = new Map();
