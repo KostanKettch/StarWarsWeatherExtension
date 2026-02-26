@@ -1,0 +1,224 @@
+{
+  "extensionName": {
+    "message": "Звёздные Войны: Погода"
+  },
+  "extensionDescription": {
+    "message": "Откройте страницу новой вкладки и отобразите фон \"Звездных войн\" в зависимости от погоды!"
+  },
+  "loading_weather": {
+    "message": "Загружаем погоду..."
+  },
+  "error_weather_unavailable": {
+    "message": "Сейчас не удается получить данные о погоде."
+  },
+  "alert_geolocation_error": {
+    "message": "Не удается определить ваше местоположение. Пожалуйста, включите службы определения местоположения для этого расширения. Для получения дополнительной информации ознакомьтесь с часто задаваемыми вопросами."
+  },
+  "center_heading_prefix": {
+    "message": "ПОГОДА СНАРУЖИ ПОХОЖА НА"
+  },
+  "center_heading_suffix": {
+    "message": ""
+  },
+  "location_display": {
+    "message": "Отображение погоды в: $1"
+  },
+  "location_display_unknown": {
+    "message": "Отображение погоды в вашем регионе"
+  },
+  "last_updated_placeholder": {
+    "message": "Оновлено: --"
+  },
+  "last_updated_time": {
+    "message": "Оновлено: $1"
+  },
+  "last_updated_date_time": {
+    "message": "Оновлено: $1 $2"
+  },
+  "time_of_day_morning": {
+    "message": "ое Утро"
+  },
+  "time_of_day_afternoon": {
+    "message": "ый Полдень"
+  },
+  "time_of_day_evening": {
+    "message": "ый Вечер"
+  },
+  "time_of_day_night": {
+    "message": "ая Ночь"
+  },
+  "time_of_day_pre_dawn": {
+    "message": "ая Поздняя ночь"
+  },
+  "planet_hoth_name": {
+    "message": "Хот"
+  },
+  "planet_hoth_summary": {
+    "message": "$1, Это очень холодн$2"
+  },
+  "planet_hoth_description": {
+    "message": "Мир Снега и Льда, Окруженный Многочисленными Лунами, и Дом Смертельно Опасных Существ, таких как Вампы."
+  },
+  "planet_kamino_name": {
+    "message": "Камино"
+  },
+  "planet_kamino_summary": {
+    "message": "$1, Это Дождлив$2"
+  },
+  "planet_kamino_description": {
+    "message": "Планета Бескрайних Океанов, Бурь и Клонов"
+  },
+  "planet_endor_name": {
+    "message": "Эндор"
+  },
+  "planet_endor_summary": {
+    "message": "$1, и Туманн$2"
+  },
+  "planet_endor_description": {
+    "message": "Вяленый Эвок - Популярная Закуска во Внешнем Кольце"
+  },
+  "planet_dagobah_name": {
+    "message": "Дагоба"
+  },
+  "planet_dagobah_summary": {
+    "message": "$1, и Очень Влажн$2"
+  },
+  "planet_dagobah_description": {
+    "message": "Пристанище Магистра Йоды Это"
+  },
+  "planet_bespin_name": {
+    "message": "Беспин"
+  },
+  "planet_bespin_summary": {
+    "message": "$1, и Сегодня Очень Ветрен$2"
+  },
+  "planet_bespin_description": {
+    "message": "Знаменит Облачным Городом"
+  },
+  "planet_scarif_name": {
+    "message": "Скариф"
+  },
+  "planet_scarif_summary": {
+    "message": "$1, и Сейчас тропическ$2"
+  },
+  "planet_scarif_description": {
+    "message": "Отдаленная Тропическая Планета во Внешнем Кольце"
+  },
+  "planet_naboo_name": {
+    "message": "Набу"
+  },
+  "planet_naboo_summary": {
+    "message": "$1, и Выдался Прохладн$2"
+  },
+  "planet_naboo_description": {
+    "message": "Родина Джа-Джа Бинкса"
+  },
+  "planet_coruscant_name": {
+    "message": "Корусант"
+  },
+  "planet_coruscant_summary": {
+    "message": "$1, Холодн$2"
+  },
+  "planet_coruscant_description": {
+    "message": "Столица Галактики"
+  },
+  "planet_tatooine_name": {
+    "message": "Татуин"
+  },
+  "planet_tatooine_summary": {
+    "message": "$1, и Сегодня Выдался Знойн$2"
+  },
+  "planet_tatooine_description": {
+    "message": "Отправляйтесь в Мос-Эйсли, и выпейте чего-нибудь"
+  },
+  "planet_mustafar_name": {
+    "message": "Мустафар"
+  },
+  "planet_mustafar_summary": {
+    "message": "$1, и Сегодня Очень Знойн$2"
+  },
+  "planet_mustafar_description": {
+    "message": "Здесь Стоит Крепость Дарта Вейдера"
+  },
+  "popup_title": {
+    "message": "Звёздные Войны: Погода"
+  },
+  "popup_subtitle": {
+    "message": "Спасибо, что пользуетесь расширением! Выберите свои настройки ниже или ознакомьтесь с другими ресурсами."
+  },
+  "popup_units_title": {
+    "message": "Единицы измерения температуры"
+  },
+  "popup_units_hint": {
+    "message": "Откройте новую вкладку или обновите, чтобы изменение единицы измерения вступило в силу".
+  },
+  "units_fahrenheit_label": {
+    "message": "Фаренгейт"
+  },
+  "units_celsius_label": {
+    "message": "Цельсий"
+  },
+  "popup_language_title": {
+    "message": "Язык"
+  },
+  "popup_language_hint": {
+    "message": "Переводы могут быть не точными (Есть ошибки связанные с окончаниями прилагательных). Обновите вкладку после изменения языка"
+  },
+  "language_english_label": {
+    "message": "🇺🇸 English"
+  },
+  "language_spanish_label": {
+    "message": "🇪🇸 Español"
+  },
+  "language_russian_label": {
+    "message": "ru Русский"
+  },
+  "popup_links_title": {
+    "message": "Оставайтесь на связи"
+  },
+  "popup_manual_location_title": {
+    "message": "Местоположение вручную"
+  },
+  "popup_manual_location_hint": {
+    "message":"Если доступ к местоположению заблокирован, выполните поиск по городу (например, \"Paris\" или \"Paris, FR\") и выберите результат. Откройте новую вкладку или обновите, чтобы загрузить изменения".
+  },
+  "popup_manual_location_placeholder": {
+    "message": "Город или Город, Страна (латиницей)"
+  },
+  "popup_manual_location_search": {
+    "message": "Поиск"
+  },
+  "popup_manual_location_clear": {
+    "message": "Использовать Текущее Местоположение"
+  },
+  "popup_manual_location_searching": {
+    "message": "Поиск..."
+  },
+  "popup_manual_location_no_results": {
+    "message": "Совпадений не найдено."
+  },
+  "popup_manual_location_error": {
+    "message": "Не удалось получить список городов. Пожалуйста, попробуйте снова."
+  },
+  "popup_manual_location_selected": {
+    "message": "Местоположение установлено как $1."
+  },
+  "popup_manual_location_auto": {
+    "message": "Определить местоположение автоматически"
+  },
+  "popup_link_rate": {
+    "message": "Нравится расширение? Оцените это в <a href=\"https://chrome.google.com/webstore/detail/star-wars-weather/hjphhbgleggdljkdlmlblbamlnkmdgag\" target=\"_blank\" rel=\"noopener\">Интернет-магазине Chrome</a>."
+  },
+  "popup_link_bug": {
+    "message": "Нашли ошибку? Заведите задачу на <a href=\"https://github.com/null3000/StarWarsWeatherExtension/issues\" target=\"_blank\" rel=\"noopener\">GitHub</a>."
+  },
+  "popup_link_source": {
+    "message": "Ознамьтесь с <a href=\"https://github.com/null3000/StarWarsWeatherExtension\" target=\"_blank\" rel=\"noopener\">исходным кодом</a> или прочитайте <a href=\"./FAQ.html\" target=\"_blank\" rel=\"noopener\">FAQ</a>."
+  },
+  "popup_link_author": {
+    "message": "Сделано <a href=\"https://www.github.com/null3000\" target=\"_blank\" rel=\"noopener\">vwbosu</a>, вдохновлено <a href=\"https://www.tomscott.com/weather/starwars/\" target=\"_blank\" rel=\"noopener\">Tom Scott</a>."
+  },
+  "popup_link_survey": {
+    "message": "Пройдите краткий <a href=\"https://forms.gle/NdQuhGarp7cKoZTp7\" target=\"_blank\" rel=\"noopener\">опрос</a> или <a href=\"https://www.buymeacoffee.com/null3000\" target=\"_blank\" rel=\"noopener\">угостите меня кофе</a>."
+  }
+}
