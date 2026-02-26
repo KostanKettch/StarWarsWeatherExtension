@@ -169,6 +169,9 @@
   },
   "language_spanish_label": {
     "message": "🇪🇸 Español"
+  },,
+  "language_russian_label": {
+    "message": "ru Rusa"
   },
   "popup_links_title": {
     "message": "Mantente conectado"
